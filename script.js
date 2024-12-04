@@ -10,7 +10,7 @@ let tvKid = {
 	// opacity below
 	"color" : "rgba(0,0,0,0.2)",
 	"picture_url" : "tvkid.jpg",
-	"padding" : "0px 1em 1em 1em",
+	"padding" : "0.25em 1em 1em 1em",
 	"border" : "5px solid #000",
 	"font" : "Courier New",
 	"align" : "center"
@@ -24,7 +24,7 @@ let ipadBaby = {
 	// opacity below
 	"color" : "rgba(0,0,0,0.2)",
 	"picture_url" : "ipadbaby.jpg",
-	"padding" : "0px 1em 1em 1em",
+	"padding" : "0.25em 1em 1em 1em",
 	"border" : "5px solid #000",
 	"font" : "Times New Roman"
 }
@@ -37,7 +37,7 @@ let theFuture = {
 	// opacity below
 	"color" : "rgba(0,0,0,0.2)",
 	"picture_url" : "vrkids.jpg",
-	"padding" : "0px 1em 1em 1em",
+	"padding" : "0.25em 1em 1em 1em",
 	"border" : "5px solid #000",
 	"font" : "Garamond"
 }
