@@ -1,0 +1,57 @@
+/*for the ipad baby section*/
+
+.grid {
+  display: grid;
+  gap: 5em;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.items {
+	width: 100%;
+	padding: 0px 1em 0px 1em;
+	box-shadow: 2px 2px 2px black;
+}
+
+p {
+/*	padding: 10px;
+	margin: 10px;*/
+	font-size: 25px;
+}
+
+body {
+		font-family: "Garamond";
+		background-size: cover;
+		background-position: 20%;
+		color: white;
+	text-shadow: 2px 2px black;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 40px;
+	text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+a {
+	color: white;
+	text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.items2 {
+	display: flex;
+	flex-direction: row;
+/*	justify-content: flex-end;*/
+	padding: 0px;
+	filter: drop-shadow(2px 2px black);
+}
+
+.overlap {
+/*	position: absolute;*/
+		filter: drop-shadow(2px 2px black);
+}
+
+.overlapped {
+/*	position: absolute;*/
+		filter: drop-shadow(2px 2px rgba(0,0,0,0.3));
+}
+
